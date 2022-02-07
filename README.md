@@ -1,6 +1,9 @@
-# spm
-spm configuration mgmt exercise
+# SOFTWARE PROJECT MANAGEMENT
 
-# Hello World
+## TO DO 
 
-## Hello Hello
+- one
+- two
+- three
+
+A quick brown fox jumps over the lazy dog.
