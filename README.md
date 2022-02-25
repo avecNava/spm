@@ -1,9 +1,4 @@
 # SOFTWARE PROJECT MANAGEMENT
 
-## TO DO 
-
-- one
-- two
-- three
-
-A quick yellow fox jumps over the lazy dog.
+#Project
+project is an individual or enterprise that is carefully planned to achieve a particular aim.
