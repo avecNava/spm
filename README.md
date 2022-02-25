@@ -9,7 +9,6 @@
 - two
 - three
 
-A quick yellow fox jumps over the lazy dog ......
 
 Over estimating
 
